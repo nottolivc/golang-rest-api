@@ -1,7 +1,7 @@
 # Basic Golang REST API
 
 --
-go compiler must be installed:
+go compiler must be installed on main.go to create .exe file:
 run `go build`
 
 Test using Insomnia/Postman
